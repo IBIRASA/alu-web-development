@@ -12,3 +12,7 @@ color:red;
 }
 The p here represents tag paragraph .This means the font color of paragraph will change to red!!
 
+Here is the difference between html and css
+
+
+![different css and html](https://github.com/IBIRASA/alu-web-development/assets/125977215/69ecae66-80a8-4826-a738-56bb543650f3)
